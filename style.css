@@ -1,0 +1,127 @@
+/*Image Replacement Technique*/
+
+.headerimage {
+  position: absolute;
+  top: -10px;
+  left: 0px;
+  width: 100%;
+}
+
+h1 {
+  font-family: Gotham, Verdana, sans-serif; 
+  font-size: 70px; 
+  line-height: 20px; 
+  color: black;
+  position: absolute;
+  z-index: 4;
+  margin-left: 100px;
+  margin-top: 120px;
+}
+
+h2 {
+  font-family: Gotham, Verdana, sans-serif; 
+  font-size: 70px; 
+  line-height: 25px; 
+  color: black;
+  position: absolute;
+  z-index: 4;
+  margin-left: 200px;
+  margin-top: 200px;
+}
+
+.square {
+  background: #ccff33;
+  width: 500px;
+  height: 500px;
+  margin-top: 225px;
+  margin-left: -10px;
+  z-index: 3;
+  position: absolute;
+}
+
+.stripes {
+  margin-top: 200px;
+  margin-left: 150px;
+  z-index: 5;
+  position: absolute;
+}
+
+.alphabetgif {
+  margin-top: 320px;
+  margin-left: 10px;
+  z-index: 4;
+  position: absolute;
+}
+
+.square2 {
+  background: #ccff33;
+  width: 200px;
+  height: 200px;
+  margin-top: 1400px;
+  margin-left: 350px;
+  z-index: 7;
+  position: absolute;
+}
+
+.square3 {
+  background: #ccff33;
+  width: 280px;
+  height: 310px;
+  margin-top: 1500px;
+  margin-left: 100px;
+  z-index: 8;
+  position: absolute;
+}
+
+.square4 {
+  background: #ccff33;
+  width: 420px;
+  height: 465px;
+  margin-top: 1750px;
+  margin-left: 360px;
+  z-index: 9;
+  position: absolute;
+}
+
+.threestripes2 {
+  margin-top: 1200px;
+  margin-left: -100px;
+  z-index: 8;
+  position: absolute;
+}
+
+.stripes2 {
+  margin-top: 950px;
+  margin-left: -100px;
+  z-index: 10;
+  position: absolute;
+}
+
+.phreshpurple {
+  margin-top: 990px;
+  margin-left: 180px;
+  z-index: 11;
+  position: absolute;
+}
+
+.threestripes3 {
+  margin-top: 600px;
+  margin-left: 350px;
+  z-index: 12;
+  position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
